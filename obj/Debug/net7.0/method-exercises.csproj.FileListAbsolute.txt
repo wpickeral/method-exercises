@@ -1,0 +1,15 @@
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.csproj.AssemblyReference.cache
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.AssemblyInfoInputs.cache
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.AssemblyInfo.cs
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.csproj.CoreCompileInputs.cache
+/Users/williampickeral/TrueCoders/repos/method-exercises/bin/Debug/net7.0/method-exercises
+/Users/williampickeral/TrueCoders/repos/method-exercises/bin/Debug/net7.0/method-exercises.deps.json
+/Users/williampickeral/TrueCoders/repos/method-exercises/bin/Debug/net7.0/method-exercises.runtimeconfig.json
+/Users/williampickeral/TrueCoders/repos/method-exercises/bin/Debug/net7.0/method-exercises.dll
+/Users/williampickeral/TrueCoders/repos/method-exercises/bin/Debug/net7.0/method-exercises.pdb
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.dll
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/refint/method-exercises.dll
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.pdb
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/method-exercises.genruntimeconfig.cache
+/Users/williampickeral/TrueCoders/repos/method-exercises/obj/Debug/net7.0/ref/method-exercises.dll
