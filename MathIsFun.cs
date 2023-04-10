@@ -33,7 +33,7 @@ namespace method_exercises
             return total;
         }
 
-        public static float Divide(float num1, float num2)
+        public static decimal Divide(decimal num1, decimal num2)
         {
             return num1 / num2;
         }
